@@ -2,7 +2,7 @@
 Q-Learning Maze Game | CDS524 Reinforcement Learning
 # CDS524 Assignment 1 — Q-Learning Maze Game
 **Course:** CDS524 Reinforcement Learning  
-**Author:** [Your Name]  
+**Author:** ZHU Zhongxi  
 **Date:** March 2026
 
 ---
