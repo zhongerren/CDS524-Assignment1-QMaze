@@ -6,6 +6,9 @@ Q-Learning Maze Game | CDS524 Reinforcement Learning
 **Date:** March 2026
 
 ---
+📹 YouTube Demo: https://youtu.be/5OIgb70PICY
+📓 Google Colab: https://colab.research.google.com/drive/1NK4iXke-3JB6rcjwbIRhO94TRDMoPgN4?usp=sharing
+
 
 ## 🎮 Game Overview
 A 10×10 grid maze game where the **human player** navigates to the goal
